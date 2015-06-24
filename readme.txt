@@ -3,7 +3,7 @@ Data From
 	http://data.okfn.org/data/core/country-list/r/data.json -- FDA data gives the Country code, this one used to associate country code to Country name
 	http://www.geonames.org/flags/x/
 1. Tools used.
-	Development 
+	Development  
 	Programming languages
 	1. JAVA 1.8, Javascript, html.
 	Eclipse IDE
@@ -33,6 +33,10 @@ Data From
 		Jetty 
       Version Control
       	GitHub, Git shell.
+      Travis
+      AWS
+      
+      Testing
 		
 		
 		
