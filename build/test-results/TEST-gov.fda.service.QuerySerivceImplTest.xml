@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gov.fda.service.QuerySerivceImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-06-24T13:40:34" hostname="kc_apple_win7" time="1.197">
+  <properties/>
+  <testcase name="test_desease_and_number_of_indidents_query" classname="gov.fda.service.QuerySerivceImplTest" time="1.197"/>
+  <system-out><![CDATA[09:40:34,554 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+09:40:34,554 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+09:40:34,555 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/C:/Java/technik_fda/fda_sample/build/resources/main/logback.xml]
+09:40:34,750 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+09:40:34,810 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+09:40:34,833 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+09:40:34,997 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - This appender no longer admits a layout as a sub-component, set an encoder instead.
+09:40:34,997 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.
+09:40:34,997 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details
+09:40:34,999 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting level of logger [org.springframework] to DEBUG
+09:40:34,999 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting additivity of logger [org.springframework] to false
+09:40:35,000 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[org.springframework]
+09:40:35,001 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to DEBUG
+09:40:35,002 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+09:40:35,002 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+09:40:35,004 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@1b0eac4 - Registering current configuration as safe fallback point
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gov.fda.web.controller.WelcomeConrollerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-06-24T13:40:36" hostname="kc_apple_win7" time="0.001">
+  <properties/>
+  <testcase name="showHomePage" classname="gov.fda.web.controller.WelcomeConrollerTest" time="0.001"/>
+  <system-out><![CDATA[2015-06-24 09:40:36 [Test worker] DEBUG g.f.web.controller.WelcomeController - index() is executed!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
